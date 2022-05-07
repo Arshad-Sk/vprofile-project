@@ -30,7 +30,7 @@ pipeline {
                         nexusUrl: '172.31.31.100', 
                         nexusVersion: 'nexus3', 
                         protocol: 'http', 
-                        repository: 'http://3.23.94.253:8081/repository/vpro-release/', 
+                        repository: 'vpro-release', 
                         version: 'v1'                    }
             }
     
