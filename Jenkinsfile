@@ -21,7 +21,7 @@ pipeline {
                         [
                             artifactId: 'vprofile', 
                             classifier: '',
-                            file: 'target/Visualpathit VProfile Webapp-v1', 
+                            file: 'target/VisualpathitVProfileWebapp-v1', 
                             type: 'war'
                         ]
                         ], 
