@@ -146,7 +146,7 @@
 	            <artifactId>amqp-client</artifactId>
 	            <version>4.0.2</version>
 	   </dependency>
-	   <!-- Elasticsearch Dependency-->
+	   <!-- Elasticsearch  Dependency-->
 		<dependency>
 		    <groupId>org.elasticsearch</groupId>
 		    <artifactId>elasticsearch</artifactId>
