@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vprodb
-        image: sk77arshad/vprofiledb:v1
+        image: sk77arshad/vprofiledb:V1
         ports:
         - name: vprodb-port
           containerPort: 3306
